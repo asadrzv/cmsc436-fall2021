@@ -10,6 +10,7 @@ Download the xcode project, open **final.xcworkspace**, then hit run.
 
 The following functionality is completed:
 
+- [x] User sees app icon in home screen and styled launch screen.
 - [x] User can signup and log in/out using Google Firebase Auth.
 - [x] User can view a map of all available items.
 - [x] User can view a map of all their own items.
