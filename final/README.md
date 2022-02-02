@@ -6,6 +6,16 @@ This is an iOS application that allows users to find others nearby willing to sh
 
 Download the xcode project, open **final.xcworkspace**, then hit run.
 
+## User Stories
+
+The following functionality is completed:
+
+- [x] User can signup and log in/out using Google Firebase Auth.
+- [x] User can view a map of all availble items.
+- [x] User can view a map of all their own items.
+- [x] User can view a list of all their own items.
+- [x] User can add items for others to borrow.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
