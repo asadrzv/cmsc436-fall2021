@@ -10,7 +10,7 @@ Download the xcode project, open **final.xcworkspace**, then hit run.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='final_demo.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br>
+<img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br>
 
 ## License
 
