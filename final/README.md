@@ -1,6 +1,6 @@
 # PowerU
 
-This is an iOS application that allows users to find others nearby willing to share with them a phone/laptop charger. The app utilises Firebase Authentication for login as well as the Google Maps API for the map. 
+This is an iOS application that allows users to find others nearby willing to share with them a phone/laptop charger.
 
 ## Getting Started
 
